@@ -1,0 +1,18 @@
+{
+  "name": "simple-shop-login",
+  "version": "1.0.0",
+  "description": "A small shopping demo app with fixed login credentials for CI/CD practice.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "shopping",
+    "login",
+    "ci-cd",
+    "demo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
