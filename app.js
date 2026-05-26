@@ -45,6 +45,13 @@ const products = [
     description: "Warm adjustable light for late builds.",
     price: 24.5,
     shortCode: "DL"
+  },
+  {
+    id: "backpack",
+    name: "Backpack",
+    description: "Durable backpack with laptop compartment.",
+    price: 59.95,
+    shortCode: "BP"
   }
 ];
 
